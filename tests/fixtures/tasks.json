@@ -1,0 +1,29 @@
+{
+    "success":{
+        "name": "Escutar podcast de Typescript",
+        "is_done": false
+
+    },
+
+    "duplicate":{
+        "name": "Cenario Massa Duplicada",
+        "is_done": false
+
+    },
+
+    "required":{
+        "name": "",
+        "is_done": false
+
+    },
+
+    "update":{
+        "name": "Pagar fatura do cartão de credito",
+        "is_done":false
+    },
+
+    "delete":{
+        "name":"Task de Exclusão",
+        "is_done": false
+    }
+}
